@@ -89,17 +89,20 @@ def mc_control(env,
 ### REG NO : 212222240023
 
 ### Action value function 
-![image](https://github.com/user-attachments/assets/7ddcf8b1-52c4-489a-8e97-eef580b667eb)
+
+![image](https://github.com/user-attachments/assets/4ef92da4-e880-4696-b5fd-7588640464fc)
 
 ### Optimal value function
-![image](https://github.com/user-attachments/assets/2aac525f-32ed-42fa-a28c-c7f0b16aa8a8)
+
+![image](https://github.com/user-attachments/assets/e4c230d3-3758-492d-ab66-5f69ff64445f)
 
 ### Optimal policy
-![image](https://github.com/user-attachments/assets/ac9b2359-9722-4c03-b156-d7c9a8b41222)
+
+![image](https://github.com/user-attachments/assets/bfa69537-8933-4cbf-9d59-ff1990d50a58)
 
 ### Success rate for the optimal policy
-![image](https://github.com/user-attachments/assets/348a28c0-9987-4609-88e3-ccfa1c4b0c45)
 
+![image](https://github.com/user-attachments/assets/772ca9ae-c716-4d80-bd35-dd832a5c6d68)
 
 ## RESULT:
 Thus to implement Monte Carlo Control to learn an optimal policy in a given environment and evaluate its performance in terms of goal-reaching probability and average return is executed successfully.
